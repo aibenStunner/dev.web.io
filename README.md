@@ -47,8 +47,6 @@ Its main functions are:
 Webiste can be found live at:
  * http://godseye-env.eba-gpcz6ppk.us-east-2.elasticbeanstalk.com/
 
-## Demo :movie_camera:
-Demo video can be found [here](https://youtu.be/0mx5jkTiKyU)
 
 # Authors & Contributors
 * Kelvin Onwudinjo
